@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sup 👋
 
 <!--
 **TuT-RA-3000/TuT-RA-3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
